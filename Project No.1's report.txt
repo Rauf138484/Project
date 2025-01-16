@@ -1,0 +1,3 @@
+Dear Mr.Ahmadzadeh
+
+This is a report for project No.1. In the first step we ask the user to enter a number to define the array's length. Then the number is going to be saved in the variable, Then the variable is going to be saved in the array that we defined which it is named 'myArray'. Then we enter the elements and numbers. In the 'for' loop we count the elements that its size was defined before by the user. In the 'foreach' loop, we organize the entered numbers and with the 'Console.Write' Command we're going to display the result.

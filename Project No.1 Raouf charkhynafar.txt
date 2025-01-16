@@ -1,0 +1,17 @@
+//Entering the size of array
+Console.Write("Enter the array lenghts: ");
+int n= int.Parse(Console.ReadLine());
+int[] myArray = new int[n];
+//Entering the Elements and counting with 'for' loop
+Console.WriteLine("Enter the elements of the array: ");
+for (int i = 0; i < n; i++)
+{
+    Console.WriteLine("Element {0}:  " ,i+1);
+    myArray[i] = int.Parse(Console.ReadLine());         
+}
+//Displaying results
+Console.WriteLine("The elements are: ");
+foreach (int i in myArray)
+{
+    Console.Write(i + " ");
+}
