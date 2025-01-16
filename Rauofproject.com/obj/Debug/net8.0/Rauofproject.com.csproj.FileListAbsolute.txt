@@ -1,0 +1,14 @@
+C:\Users\ATC\source\repos\Rauofproject.com\bin\Debug\net8.0\Rauofproject.com.exe
+C:\Users\ATC\source\repos\Rauofproject.com\bin\Debug\net8.0\Rauofproject.com.deps.json
+C:\Users\ATC\source\repos\Rauofproject.com\bin\Debug\net8.0\Rauofproject.com.runtimeconfig.json
+C:\Users\ATC\source\repos\Rauofproject.com\bin\Debug\net8.0\Rauofproject.com.dll
+C:\Users\ATC\source\repos\Rauofproject.com\bin\Debug\net8.0\Rauofproject.com.pdb
+C:\Users\ATC\source\repos\Rauofproject.com\obj\Debug\net8.0\Rauofproject.com.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATC\source\repos\Rauofproject.com\obj\Debug\net8.0\Rauofproject.com.AssemblyInfoInputs.cache
+C:\Users\ATC\source\repos\Rauofproject.com\obj\Debug\net8.0\Rauofproject.com.AssemblyInfo.cs
+C:\Users\ATC\source\repos\Rauofproject.com\obj\Debug\net8.0\Rauofproject.com.csproj.CoreCompileInputs.cache
+C:\Users\ATC\source\repos\Rauofproject.com\obj\Debug\net8.0\Rauofproject.com.dll
+C:\Users\ATC\source\repos\Rauofproject.com\obj\Debug\net8.0\refint\Rauofproject.com.dll
+C:\Users\ATC\source\repos\Rauofproject.com\obj\Debug\net8.0\Rauofproject.com.pdb
+C:\Users\ATC\source\repos\Rauofproject.com\obj\Debug\net8.0\Rauofproject.com.genruntimeconfig.cache
+C:\Users\ATC\source\repos\Rauofproject.com\obj\Debug\net8.0\ref\Rauofproject.com.dll
